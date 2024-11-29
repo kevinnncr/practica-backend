@@ -7,8 +7,6 @@
  ### 3.1 Docker
  Docker es una plataforma para poder virtualizar y empaquetar aplicaciones con dependencias en contenedores, que a diferencia de las máquinas virtuales comparten el mismo núcleo del sistema.
 
- - Imagen -
- Una imagen es un conjunto de instrucciones que describe cómo se debe configurar el contenedor.
  ### 3.2 Springboot
 Es un framework que se basa en spring el cual está destinado para simplificar el proceso de configuración y despliegue de aplicaciones de java mediante el uso de dependencias.
  ### 3.3 YAML

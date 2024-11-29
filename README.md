@@ -1,7 +1,7 @@
 # Practica crear contenedores con yml y proyeto de springboot
 ## Informe de dos contenedores y proyecto con sprigboot
 ## 2. Tiempo 
- 50 minutos
+ 40 minutos
 ## 3. Fundamentos:
 
  ### 3.1 Docker

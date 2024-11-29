@@ -37,8 +37,8 @@ Para realizar esta practica debemos tener conocimientos es:
    
 - Documentacion de docker.
 - Guia de asignatura.
-- Imágnes de docker.
-- Proyecto creado
+- Imágenes de docker.
+- Proyecto springboot
   
 ## 8. Procedimiento
 
